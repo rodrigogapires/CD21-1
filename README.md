@@ -27,3 +27,5 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Exercícios](./aula04/Aula04_Exercicio_ExplorandoDuasVariaveisQuantitativas_Discriminacao.ipynb)
     - [Base de dados: Discriminacao.xlsx](./aula04/Discriminacao.xlsx)
     - [Base de dados: Mundo.xlsx](./aula04/Mundo.xlsx)
+ - [Aula 06 - Teoria da Probabilidade](./aula06)
+    - [Exercícios](./aula06/Aula06_Exercicio_TeoriaDaProbabilidade.ipynb)
