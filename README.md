@@ -29,3 +29,6 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Base de dados: Mundo.xlsx](./aula04/Mundo.xlsx)
  - [Aula 06 - Teoria da Probabilidade](./aula06)
     - [Exercícios](./aula06/Aula06_Exercicio_TeoriaDaProbabilidade.ipynb)
+ - [Aula 07 - Teoria da Probabilidade: Classificador Naive Bayes](./aula07)
+    - [Atividade de sala](./aula07/Aula07_Atividade_Titanic_ClassificadorNB.ipynb)
+    - [Base de dados: titanic.xlsx](./aula07/titanic.xlsx)   
