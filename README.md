@@ -32,3 +32,8 @@ Todos os roteiros podem ser acessados pelo site do Github.
  - [Aula 07 - Teoria da Probabilidade: Classificador Naive Bayes](./aula07)
     - [Atividade de sala](./aula07/Aula07_Atividade_Titanic_ClassificadorNB.ipynb)
     - [Base de dados: titanic.xlsx](./aula07/titanic.xlsx)   
+ - [Aula 08 - Classificador Naive Bayes com texto](./aula07)
+    - [Atividade](./aula08/Aula08_Atividade_Texto_Camoes_Machado_MLcomNB.ipynb)
+    - [Dom Casmurro](./aula08/textos/domcasmurro_texto.txt)
+    - [Os Lusíadas](./aula08/textos/lusiadas_texto.txt)
+
