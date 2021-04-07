@@ -44,7 +44,7 @@ Todos os roteiros podem ser acessados pelo site do Github.
     - [Atividade](./aula11/Aula11_Atividade_ModelosProbabilísticosDiscretos.ipynb)
     - [Exercícios](./aula11/Aula11_Exercicios_ModelosProbabilísticosDiscretos.ipynb)
     - [Base de dados: Carros.txt](./aula11/Carros.txt)  
- - [Aula 112- Modelo probabilístico discreto: Poisson](./aula12)
+ - [Aula 12- Modelo probabilístico discreto: Poisson](./aula12)
     - [Exemplo](./aula12/Aula12_Exemplo_Chatbot.ipynb)
     - [Atividade](./aula12/Aula12_Atividade_ModelosProbabilísticosDiscretosPoisson.ipynb)
     - [Exercícios](./aula12/Aula12_Exercicios_ModelosProbabilísticosDiscretos.ipynb)
